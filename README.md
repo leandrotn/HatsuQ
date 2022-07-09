@@ -19,7 +19,7 @@
 Картинки (да, полезно)
 
 ---
-<img src="https://discord.c99.nl/widget/theme-2/871776427480088586.png">
+<img src="https://discord.c99.nl/widget/theme-1/871776427480088586.png">
 <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=HatsuQ&show_icons=true&include_all_commits=true&theme=white">
 
 
